@@ -4,3 +4,4 @@ This repository will hold a host of analyses examining the statstical properties
   1. Univariate Factor Analysis
   2. Multivariate Factor Analysis
   3. Time-Series Modeling
+  4. Growth Factor Exploration
